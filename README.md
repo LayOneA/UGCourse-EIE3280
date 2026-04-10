@@ -1,4 +1,4 @@
-# Pricing-Algorithm-for-ISP
+# Pricing Algorithm for ISP
 
 ## Project Background
 This is the code repository for the final project of The Chinese University of Hong Kong, Shenzhen's Spring 2025 course EIE3280. 
